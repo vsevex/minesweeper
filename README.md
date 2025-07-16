@@ -36,5 +36,5 @@ flutter test
 
 ## ✅ Requirements
 
-Flutter 3.10+
-Dart 3.x
+- Flutter 3.10+
+- Dart 3.x
