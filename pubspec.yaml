@@ -1,0 +1,19 @@
+name: minesweeper
+description: "Pasha Minesweeper"
+version: 0.0.1+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lint: ^2.8.0
+
+flutter:
+  uses-material-design: true
